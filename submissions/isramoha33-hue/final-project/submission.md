@@ -10,4 +10,4 @@
 - [x] At least 2 feature branches merged via Pull Request
 - [x] At least 1 Issue opened and closed by a PR (`Fixes #1`)
 - [x] At least 1 review comment before merging
-- [] GitHub Actions workflow with a successful (green) run
+- [x] GitHub Actions workflow with a successful (green) run
