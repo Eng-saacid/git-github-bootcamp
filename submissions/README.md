@@ -12,9 +12,8 @@ Please follow the rules carefully to ensure your work is accepted.
 3. **Create a folder with your exact GitHub username** (case-sensitive).
    - Example: If your username is `sharafdin`, your folder must be named `sharafdin/`.
 4. Place all your assignment files inside your folder:
-   - `submission.md` (repo link and confirmation for Assignment 1)
-   - `README.md`
-   - any additional files required (.html, .css, .gitignore, images, etc.)
+   - `submission.md` (repo link and confirmation for each assignment)
+   - any additional files your assignment asks for (screenshots, workflow run links, etc.)
 5. Commit and push your changes.
 6. Open a **Pull Request (PR)** to this repository.
    - PR title format: `Assignment Submission - <Your GitHub Username>` (`Assignment Submission - sharafdin`)
@@ -34,12 +33,16 @@ submissions/
 ├── sharafdin/
 │   ├── assignment-1/
 │   │   └── submission.md
+│   ├── assignment-2/
+│   │   └── submission.md
+│   ├── assignment-3/
+│   │   └── submission.md
 │   └── final-project/
-│       ├── README.md
-│       ├── index.html
-│       └── .gitignore
+│       └── submission.md
 └── omartood/
     ├── assignment-1/
+    ├── assignment-2/
+    ├── assignment-3/
     └── final-project/
 
 ```
